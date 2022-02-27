@@ -7,7 +7,7 @@ Salut, moi c'est foltone je suis un étudiant français <img src="https://acegif
 Hi, I'm foltone, I'm a French student <img src="https://acegif.com/wp-content/uploads/france-flag.gif" width="18px" alt="hi">, and my hobby is developing discord bots, small websites and fivem scripts.
 
 #
-<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/X9ReemrhKh) -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/X9ReemrhKh)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foltone)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?hl=fr&tf=cm&fs=1&to=foltonedev@gmail.com)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/foltonemoney?locale.x=fr_FR)
