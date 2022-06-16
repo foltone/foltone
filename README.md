@@ -8,11 +8,9 @@ Hi, I'm foltone, I'm a French student 🇫🇷, and my hobby is developing disco
 
 #
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/X9ReemrhKh)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foltone)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?hl=fr&tf=cm&fs=1&to=foltonedev@gmail.com)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/foltonemoney?locale.x=fr_FR)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCMbP42Mqwk3hwjp4ClZjeng)
-[![YouTube](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/foltone)
+[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/foltone)
 
 
 ## Les langages que j'utilise | The languages I use
