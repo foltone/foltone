@@ -1,10 +1,10 @@
-## Salut, je suis foltone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-## Hi I'm foltone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Salut, je suis foltone 👋
+## Hi I'm foltone 👋
 
 ### Présentation | Introducing
-Salut, moi c'est foltone je suis un étudiant français <img src="https://acegif.com/wp-content/uploads/france-flag.gif" width="18px" alt="hi">, et mon passe-temps est de développer des bots discords, des petits sites vitrine et des scripts fivem.
+Salut, moi c'est foltone je suis un étudiant français 🇫🇷, et mon passe-temps est de développer des bots discords, des petits sites vitrine et des scripts fivem.
 
-Hi, I'm foltone, I'm a French student <img src="https://acegif.com/wp-content/uploads/france-flag.gif" width="18px" alt="hi">, and my hobby is developing discord bots, small websites and fivem scripts.
+Hi, I'm foltone, I'm a French student 🇫🇷, and my hobby is developing discord bots, small websites and fivem scripts.
 
 #
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/X9ReemrhKh)
