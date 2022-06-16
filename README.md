@@ -5,7 +5,7 @@ Salut, moi c'est foltone je suis un étudiant français 🇫🇷, et mon passe-t
 
 Hi, I'm foltone, I'm a French student 🇫🇷, and my hobby is developing discord bots, small websites and fivem scripts.
 
-#
+## Network
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/X9ReemrhKh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/?hl=fr&tf=cm&fs=1&to=foltonedev@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCMbP42Mqwk3hwjp4ClZjeng)
