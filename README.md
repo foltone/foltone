@@ -19,7 +19,7 @@ Hi, I'm foltone, I'm a French student 🇫🇷, and my hobby is developing disco
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foltone&show_icons=true&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foltone&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foltone&show_icons=true&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foltone&layout=compact&theme=algolia)
 
 ## Network
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/X9ReemrhKh)
