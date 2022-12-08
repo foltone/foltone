@@ -1,7 +1,7 @@
 ## Salut, je suis foltone 👋 | Hi I'm foltone 👋
 
 ### Présentation | Introducing
-Salut, moi c'est foltone je suis un étudiant français 🇫🇷, et mon passe-temps est de développer des bots discords, des petits sites vitrine et des scripts fivem.
+Salut, moi c'est foltone je suis un étudiant français 🇫🇷, et mon passe-temps est de développer des bots discord, des petits sites vitrine et des scripts fivem.
 
 Hi, I'm foltone, I'm a French student 🇫🇷, and my hobby is developing discord bots, small websites and fivem scripts.
 
