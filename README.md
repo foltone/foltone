@@ -22,9 +22,11 @@ Hi, I'm foltone, a French student 🇫🇷 studying digital engineering and pass
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
+<!--
 ## Statistiques GitHub | GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foltone&show_icons=true&theme=algolia)
 ![Langages populaires](https://github-readme-stats.vercel.app/api/top-langs/?username=foltone&layout=compact&theme=algolia)
+-->
 
 ## Réseaux sociaux et contacts | Social Media and Contacts
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/X9ReemrhKh)
